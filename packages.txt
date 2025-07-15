@@ -1,0 +1,2 @@
+# System dependencies for streamlit.app deployment
+# Add any system packages needed by your application here
